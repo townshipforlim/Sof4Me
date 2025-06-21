@@ -1,3 +1,3 @@
 @echo off
 
-Here IAM
+echo Here IAM
